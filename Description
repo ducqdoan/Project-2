@@ -1,0 +1,3 @@
+//Simulation of CPUs processing jobs
+//Head.cpp creates instaces of jobs, each of which contain type, arrivial and processing time. File job.dat is used to saved the list of jobs.
+//File.cpp simulates a computer processing jobs and outputs reports.
